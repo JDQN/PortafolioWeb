@@ -1,0 +1,4 @@
+Librerias Instaladas 
+
+npm install react-icon -> npm install react-icons --save
+npm install emailjs-com --save   -> con este comando instalamos la Libreria emailjs para los correos
