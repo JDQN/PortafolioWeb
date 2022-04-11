@@ -20,8 +20,9 @@ const data = [
         image: 'https://github.com/JDQN/Api-Rick-Morty/blob/main/Home.png?raw=true',
         title: 'Api-Rick-Morty',
         description: "La API de Rick and Morty es una API RESTful en la cual escontraremos los personajes del programa de televición Rick and Morty ams info en el git",
-        github: 'https://api-rick-morty-coral.vercel.app/',
-        demo: ' https://github.com/JDQN/Api-Rick-Morty'
+        github: 'https://github.com/JDQN/Api-Rick-Morty',
+        demo: 'https://api-rick-morty-coral.vercel.app/'
+        
     }
 ]
 
