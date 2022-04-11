@@ -12,7 +12,7 @@ const HeaderSocials= () => {
             <a href="https://github.com/JDQN" target="_blank">
                 <BsGithub/>
             </a>
-            <a href="#" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=+573216615397" target="_blank">
                 <BsWhatsapp/>
             </a>
 

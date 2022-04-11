@@ -24,25 +24,26 @@ const About = () => {
                             <article className='about__card'>
                                 <FaAward className="about__icon"/>
                                 <h5>Experience</h5>
-                                <small>1+ Years Working</small>
+                                <small>1+ Years</small>
                             </article>
 
                             <article className='about__card'>
                                 <FiUsers className="about__icon"/>
                                 <h5>Clients</h5>
-                                <small>6+ Worlwide</small>
+                                <small>1+ Worked</small>
                             </article>
                             
                             <article className='about__card'>
                                 <VscFolderLibrary className="about__icon"/>
                                 <h5>Projects</h5>
-                                <small>80+ Completed</small>
+                                <small>7+ Completed</small>
                             </article>
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                            Lorem ipsum dolor sit amet consectetur adipisicing elitLorem ipsum dolor sit amet consectetur adipisicing elit
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit amet consectetur adipisicing elit
+                            Desde el inicio de mi carrera como desarollador de software y en especial 
+                            en el área de la tecnología web, me he convertido en una persona con metas claras,
+                            y con una gran capacidad de adaptación y trabajo en equipo que me ha permitido 
+                            aprender temas nuevos esto hace de mi una persona constante, curiosa y sin miedos d eenfrentarme a nuevos retos.
                         </p>
                         <a href="#contact" className="btn btn-primary">Let's Talk</a>
                     </div>

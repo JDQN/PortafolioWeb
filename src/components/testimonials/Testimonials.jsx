@@ -30,7 +30,7 @@ const Testimonials = () => {
 
 
                 {
-                    dataTestimonials.map(({id, avatar, name, review}, index) => {
+                    dataTestimonials.map(({id, avatar, name, review, social}, index) => {
                         return(
                             <SwiperSlide key={id}  className='testimonial'>
                                 <div className='client__avatar'>
@@ -40,6 +40,9 @@ const Testimonials = () => {
                                 <small className='client__review'>
                                     {review}
                                 </small>
+                                <spam>
+                                    <small>{social}</small>
+                                </spam>
                             </SwiperSlide>
                         )
                     })   

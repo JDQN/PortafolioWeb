@@ -1,6 +1,18 @@
 import React from 'react'
 import './services.css'
 import { BiCheck } from 'react-icons/bi'
+import { FiSmartphone } from 'react-icons/fi'
+import { AiFillFormatPainter } from 'react-icons/ai'
+import { AiFillApi } from 'react-icons/ai'
+import { AiOutlineDesktop } from 'react-icons/ai'
+import { AiOutlineBgColors } from 'react-icons/ai'
+import { AiOutlineFileProtect } from 'react-icons/ai'
+import { VscError } from 'react-icons/vsc'
+import { ImWarning } from 'react-icons/im'
+import { MdOutlineDesignServices } from 'react-icons/md'
+import { SiAdobeillustrator } from 'react-icons/si'
+import { ImHtmlFive2 } from 'react-icons/im'
+
 
 const Services = () => {
     return (
@@ -18,18 +30,18 @@ const Services = () => {
 
                     <ul className="service__list">
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <FiSmartphone className='service__list-icon'/>
+                            <p>Fully Responsive</p>
                         </li>
 
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <AiFillFormatPainter className='service__list-icon'/>
+                            <p>Creative Desing</p>
                         </li>
 
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <AiFillApi className='service__list-icon'/>
+                            <p>Social Media Integration</p>
                         </li>
                     </ul>
                 </article>
@@ -42,18 +54,28 @@ const Services = () => {
 
                     <ul className="service__list">
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <AiOutlineDesktop className='service__list-icon'/>
+                            <p>Web application</p>
                         </li>
 
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <AiOutlineBgColors className='service__list-icon'/>
+                            <p>Custom website</p>
                         </li>
 
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <AiOutlineFileProtect className='service__list-icon'/>
+                            <p>Landing page</p>
+                        </li>
+
+                        <li>
+                            <ImWarning className='service__list-icon'/>
+                            <p>Mantenimiento de páginas web</p>
+                        </li>
+
+                        <li>
+                            <VscError className='service__list-icon'/>
+                            <p>Error correction</p>
                         </li>
                     </ul>
                 </article>
@@ -61,23 +83,23 @@ const Services = () => {
                 {/* START CONTENT */}
                 <article className="service">
                     <div className="service__head">
-                        <h3>Content Creation</h3>
+                        <h3>Volunteering</h3>
                     </div>
 
                     <ul className="service__list">
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <SiAdobeillustrator className='service__list-icon'/>
+                            <p>Adobe illustrator.</p>
                         </li>
 
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <MdOutlineDesignServices className='service__list-icon'/>
+                            <p>Web design.</p>
                         </li>
 
                         <li>
-                            <BiCheck className='service__list-icon'/>
-                            <p>lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                            <ImHtmlFive2 className='service__list-icon'/>
+                            <p>Html y Css</p>
                         </li>
                     </ul>
                 </article>

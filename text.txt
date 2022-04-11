@@ -1,4 +1,5 @@
 Librerias Instaladas 
 
 npm install react-icon -> npm install react-icons --save
+npm i swiper -> con esta libreria realizamos el carrucel de los testimonios funciona bien 
 npm install emailjs-com --save   -> con este comando instalamos la Libreria emailjs para los correos

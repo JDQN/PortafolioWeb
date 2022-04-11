@@ -31,13 +31,13 @@ const Contact = () => {
                     <article className='contact__option'>
                         <MdOutlineEmail className='contact__option-icon'/>
                         <h4>Email</h4>
-                        <a href='mailto:jdquimbayo72@misena.edu.co'>Send message</a>
+                        <a href='mailto:jdquimbayo72@misena.edu.co' target="_blank">Send message</a>
                     </article>
 
                     <article className='contact__option'>
                         <BsLinkedin className='contact__option-icon'/>
                         <h4>LinkedIn</h4>
-                        <a href='https://www.linkedin.com/in/viamonte2319/'>Send LinkedIn</a>
+                        <a href='https://www.linkedin.com/in/viamonte2319/' target="_blank">Send LinkedIn</a>
                     </article>
 
                     <article className='contact__option'>

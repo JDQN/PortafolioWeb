@@ -1,7 +1,7 @@
 const data = [
     {
         id: 1,
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWow0d6GWWW6xOQaEytHPsFVIvP5S235d_iA&usqp=CAU',
+        image: 'https://github.com/JDQN/Deploying-Guaches/blob/main/Ecomerce%20Guache.png?raw=true',
         title: 'E-commerce Guaches',
         description: "Guaches es un emprendimiento de estampados, nació a raíz de la pandemia y esta en crecimiento ",
         github: 'https://github.com/JDQN/Deploying-Guaches',
@@ -9,7 +9,7 @@ const data = [
     },
     {
         id: 2,
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWow0d6GWWW6xOQaEytHPsFVIvP5S235d_iA&usqp=CAU',
+        image: 'https://github.com/JDQN/To-Do-List-App/blob/main/To-Do-List.png?raw=true',
         title: 'To-Do-List Mongo',
         description: "Presentamos To Do List App donde podremos gestionar las tareas de manera rápida y sencilla 100% funcional y sencillo de manejar.",
         github: 'https://github.com/JDQN/To-Do-List-App',
@@ -17,7 +17,7 @@ const data = [
     },
     {
         id: 3,
-        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWow0d6GWWW6xOQaEytHPsFVIvP5S235d_iA&usqp=CAU',
+        image: 'https://github.com/JDQN/Api-Rick-Morty/blob/main/Home.png?raw=true',
         title: 'Api-Rick-Morty',
         description: "La API de Rick and Morty es una API RESTful en la cual escontraremos los personajes del programa de televición Rick and Morty ams info en el git",
         github: 'https://github.com/JDQN/Api-Rick-Morty',
