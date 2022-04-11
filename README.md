@@ -1,4 +1,4 @@
-### Hi, Welcome Portafolio d epresentación 👋 💻 🤓 🖥
+### Hi, Welcome Portafolio de presentación 👋 💻 🤓 🖥
 
 <p>
   En este repositorio encontrara el codigo fuente del Portafolio
