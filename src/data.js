@@ -1,7 +1,7 @@
 const data = [
     {
         id: 1,
-        image: 'https://github.com/JDQN/Deploying-Guaches/blob/main/Ecomerce%20Guache.png?raw=true',
+        image: 'https://github.com/JDQN/Deploying-Guaches/blob/main/1.Home.png?raw=true',
         title: 'E-commerce Guaches',
         description: "Guaches es un emprendimiento de estampados, nació a raíz de la pandemia y esta en crecimiento ",
         github: 'https://github.com/JDQN/Deploying-Guaches',
