@@ -1,7 +1,7 @@
 const dataTestimonials = [
     {
         id: 1,
-        avatar: 'https://github.com/JDQN/Deploying-Guaches/blob/main/LogoGuache.png?raw=true',
+        avatar: 'https://github.com/JDQN/Deploying-Guaches/blob/main/logo1.png?raw=true',
         name: 'E-commerce Guaches',
         review: "Guaches_shirt agradece a Juan David Quimbayo por su colaboración y excelente trabajo en el desarrollo de nuestro primer E-commerce el cual ha ayudado a hacer más visible nuestro emprendimiento y por el cual hemos podido realizar ventas, estamos infinitamente agradecidos por esta colaboración y excelente aporte gracias Bendiciones.",
         social: "Puedes encontrar en Instagram como @guaches_shirt"
