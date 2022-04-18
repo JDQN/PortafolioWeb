@@ -1,12 +1,15 @@
-### Proyecto Chiwi Acádemy 👋 💻 🤓 🖥
+### Portafolio Web 👋 💻 🤓 🖥
 
-<p>Diseñar y desarrollar una aplicación para la gestión de eventos o meetups on-line.</p>
+<p>
+  Desde el inicio de mi carrera como desarollador de software y en especial en el área de la tecnología web, me he convertido en una persona con metas    claras, y con una gran capacidad de adaptación y trabajo en equipo que me ha permitido aprender temas nuevos esto hace de mi una persona constante, curiosa y sin miedos d eenfrentarme a nuevos retos.
+</p>
 
 
 <p><em> EducaMas -> <a href="https://educamas.com.co/"> EducaMas - Programate</a>, Regional. 💻 </br>
 </em></p>
 
 <h2> 👨🏻•💻  TEAM 👨🏻•💻 </h2>
+
 
 - 🎓 &nbsp; Juan David Quimbayo Nuñez.
 
@@ -16,9 +19,7 @@
 - 🌐 &nbsp; HTML5 | CSS3 | Bootstrap |
 - 🛢 &nbsp; Mongo BD | 
 - 💻 &nbsp; React |
-- 🖥 &nbsp; Deploying | 
-
-<h2>💻  NOTA 💻</h2>
+- 🖥 &nbsp; Deploying |  <a href="https://portafolio-web-one.vercel.app/">Portafolio web</a>
 
 
 ---
