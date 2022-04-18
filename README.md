@@ -9,10 +9,10 @@
 <h2> 👨🏻•💻  TEAM 👨🏻•💻 </h2>
 
 - 🎓 &nbsp; Sara salas Perez.
-- - 🎓 &nbsp; Yuri Andrea.
-- - 🎓 &nbsp; Jose Jiménez.
-- - 🎓 &nbsp; Leandro Gutierrez.
-- - 🎓 &nbsp; Juan David Quimbayo Nuñez.
+- 🎓 &nbsp; Yuri Andrea.
+- 🎓 &nbsp; Jose Jiménez.
+- 🎓 &nbsp; Leandro Gutierrez.
+- 🎓 &nbsp; Juan David Quimbayo Nuñez.
 
 
 <h3>🛠 Stack 🛠 </h3>
