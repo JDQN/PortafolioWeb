@@ -1,17 +1,18 @@
-### Hi, Welcome Portafolio de presentación 👋 💻 🤓 🖥
+### Proyecto Chiwi Acádemy 👋 💻 🤓 🖥
 
-<p>
-  En este repositorio encontrara el codigo fuente del Portafolio
-</p>
+<p>Diseñar y desarrollar una aplicación para la gestión de eventos o meetups on-line.</p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p><em> EducaMas -> <a href="https://educamas.com.co/"> EducaMas - Programate</a>, Regional. 💻 </br>
 </em></p>
 
 <h2> 👨🏻•💻  TEAM 👨🏻•💻 </h2>
 
-- 🎓 &nbsp; Juan David Quimbayo Nuñez.
+- 🎓 &nbsp; Sara salas Perez.
+- - 🎓 &nbsp; Yuri Andrea.
+- - 🎓 &nbsp; Jose Jiménez.
+- - 🎓 &nbsp; Leandro Gutierrez.
+- - 🎓 &nbsp; Juan David Quimbayo Nuñez.
 
 
 <h3>🛠 Stack 🛠 </h3>
