@@ -26,7 +26,14 @@
 
 <h2>💻 IMG 💻</h2>
 
-<img src="https://github.com/JFJ1972/academy/blob/main/imagen%201.png" />
+<img align='right' src="https://github.com/JDQN/PortafolioWeb/blob/main/img1.png" width="500" />
 
 ---
-<img src="https://github.com/JFJ1972/academy/blob/main/imagen%202.png" />
+<img src="https://github.com/JDQN/PortafolioWeb/blob/main/img2.png" width="500" />
+
+
+<img align='right' src="https://github.com/JDQN/PortafolioWeb/blob/main/img3.png" width="500" />
+
+---
+<img src="https://github.com/JDQN/PortafolioWeb/blob/main/img4.png" width="500" />
+
