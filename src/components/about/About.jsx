@@ -40,10 +40,10 @@ const About = () => {
                             </article>
                         </div>
                         <p>
-                            Desde el inicio de mi carrera como desarollador de software y en especial 
+                            Desde el inicio de mi carrera como desarrollador de software y en especial 
                             en el área de la tecnología web, me he convertido en una persona con metas claras,
                             y con una gran capacidad de adaptación y trabajo en equipo que me ha permitido 
-                            aprender temas nuevos esto hace de mi una persona constante, curiosa y sin miedos d eenfrentarme a nuevos retos.
+                            aprender temas nuevos esto hace de mi una persona constante, curiosa y sin miedos de enfrentarme a nuevos retos.
                         </p>
                         <a href="#contact" className="btn btn-primary">Let's Talk</a>
                     </div>
