@@ -22,8 +22,6 @@
 - 🖥 &nbsp; Deploying |  <a href="https://portafolio-web-one.vercel.app/">Portafolio web</a>
 
 
----
-
 <h2>💻 IMG 💻</h2>
 
 <img align='right' src="https://github.com/JDQN/PortafolioWeb/blob/main/img1.png" width="500" />
